@@ -1,0 +1,42 @@
+[
+    {
+        "expression": "3+1",
+        "result": 4
+    },
+    {
+        "expression": "4-1",
+        "result": 3
+    },
+    {
+        "expression": "865 / 5",
+        "result": 173.0
+    },
+    {
+        "expression": "3+5",
+        "result": 8
+    },
+    {
+        "expression": "456 / 2",
+        "result": 228.0
+    },
+    {
+        "expression": "\u221a10.0",
+        "result": 3.1622776601683795
+    },
+    {
+        "expression": "\u221a5.0",
+        "result": 2.23606797749979
+    },
+    {
+        "expression": "5 / 0",
+        "result": "Error: Division by zero is not allowed."
+    },
+    {
+        "expression": "3+5",
+        "result": 8
+    },
+    {
+        "expression": "4 + 1",
+        "result": 5
+    }
+]
